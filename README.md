@@ -1,2 +1,2 @@
 # pipeline
-jenkinsPipe 1 2
+Jenkins pipeline test
