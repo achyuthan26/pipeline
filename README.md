@@ -1,2 +1,2 @@
 # pipeline
-jenkinsPipe
+jenkinsPipe 1 2
